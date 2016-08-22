@@ -1,5 +1,5 @@
 ﻿function Get-HelloWorld {
-    write-host 'Hello World!'
+    write-output 'Hello World!'
     # sorry about 53 puppy don
 }
 
