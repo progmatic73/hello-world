@@ -4,5 +4,3 @@
 }
 
 Get-HelloWorld
-#the23
-#test2
